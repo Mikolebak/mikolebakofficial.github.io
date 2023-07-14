@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Miko Lebak Official</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3> 
 
@@ -21,6 +20,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=miko-lebak-official&show_icons=true&locale=en&layout=compact" alt="miko-lebak-official" /></p> 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miko-lebak-official&show_icons=true&locale=en" alt="miko-lebak-official" /></p> 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=miko-lebak-official&" alt="miko-lebak-official" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miko-lebak-official&show_icons=true&locale=en" alt="miko-lebak-official" /></p>
