@@ -27,3 +27,6 @@ https://youtu.be/Beq65mdUW0M
 
 WOW ! SUDAH MULUS DULU INI BANYAK HANTU YANG BUCIN DI SINI | CITRA MAJA RAYA BANTEN
 https://youtu.be/tWZEksAF_xE
+
+https://id.wikipedia.org/wiki/Miko_lebak_official
+biografi miko lebak official 
