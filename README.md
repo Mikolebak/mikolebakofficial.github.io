@@ -21,3 +21,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=miko-lebak-official&show_icons=true&locale=en&layout=compact" alt="miko-lebak-official" /></p> 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miko-lebak-official&show_icons=true&locale=en" alt="miko-lebak-official" /></p>
+Rahasia Terungkap: Jalur Alternatif Menuju Kampung Baduy yang Selama Ini Dicari! 🌳🍃"
+https://youtu.be/Beq65mdUW0M
