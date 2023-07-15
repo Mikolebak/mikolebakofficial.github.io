@@ -2,6 +2,14 @@
 <h3 align="center">A passionate frontend developer from Indonesia</h3> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miko-lebak-official&label=Profile%20views&color=0e75b6&style=flat" alt="miko-lebak-official" /> </p> 
+Rahasia Terungkap: Jalur Alternatif Menuju Kampung Baduy yang Selama Ini Dicari! 🌳🍃"
+https://youtu.be/Beq65mdUW0M
+
+WOW ! SUDAH MULUS DULU INI BANYAK HANTU YANG BUCIN DI SINI | CITRA MAJA RAYA BANTEN
+https://youtu.be/tWZEksAF_xE
+
+https://id.wikipedia.org/wiki/Miko_lebak_official
+biografi miko lebak official 
 
 <h1>Miko Lebak Official</h1>
     </header>
@@ -51,12 +59,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=miko-lebak-official&show_icons=true&locale=en&layout=compact" alt="miko-lebak-official" /></p> 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miko-lebak-official&show_icons=true&locale=en" alt="miko-lebak-official" /></p>
-
-Rahasia Terungkap: Jalur Alternatif Menuju Kampung Baduy yang Selama Ini Dicari! 🌳🍃"
-https://youtu.be/Beq65mdUW0M
-
-WOW ! SUDAH MULUS DULU INI BANYAK HANTU YANG BUCIN DI SINI | CITRA MAJA RAYA BANTEN
-https://youtu.be/tWZEksAF_xE
 
 https://id.wikipedia.org/wiki/Miko_lebak_official
 biografi miko lebak official 
