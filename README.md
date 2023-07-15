@@ -3,6 +3,36 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miko-lebak-official&label=Profile%20views&color=0e75b6&style=flat" alt="miko-lebak-official" /> </p> 
 
+<h1>Miko Lebak Official</h1>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="#">Beranda</a></li>
+            <li><a href="#">Nasional</a></li>
+            <li><a href="#">Internasional</a></li>
+            <li><a href="#">Wisata</a></li>
+            <li><a href="#">Travel</a></li>
+            <li><a href="#">Hiburan</a></li>
+        </ul>
+    </nav>
+    <section>
+        <article>
+            <h2>Kisah Misteri Dan Traveling</h2>
+            <p>Di Rangkum Dalam konten Dan Artikel Saya Ini...</p>
+        </article>
+        <article>
+            <h2>Akurat Dan Terpercaya</h2>
+            <p>wisata dan vlog...</p>
+        </article>
+        <!-- Add more articles here -->
+    </section>
+    <footer>
+        <p>&copy; 2023 Miko Lebak Official. All rights reserved.</p>
+    </footer>
+</body>
+</html>
+
+
 - 🔭 I’m currently working on, [Konten misteri Vlog](https://youtube.com/@mikolebakofficial) 
 
 - 👯 I’m looking to collaborate on [Konten kreator](https://youtu.be/RqX-plnU8-0) 
