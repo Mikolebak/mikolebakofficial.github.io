@@ -28,14 +28,9 @@ biografi miko lebak official
     <nav>
         <ul>
           <p>Rahasia Terungkap: Jalur Alternatif Menuju Kampung Baduy yang Selama Ini Dicari! 🌳🍃".</p> </div>...https://youtu.be/Beq65mdUW0M
-            <li><a href="#">Miko Lebal Official</a></li>
-            <li><a href="#">video</a></li>
-            <li><a href="#">Video Misteri</a></li>
-            <li><a href="#">vlog</a></li>
-            <li><a href="#">Vlog keseharian</a></li>
-            <li><a href="#">Terbaru</a></li>
-        </ul>
-    </nav>
+                  <p>Saya Mengunjungi Manggarai, Katanya Ada Penampakan, Hantu Kereta Api Manggarai, Sering Muncul".</p> </div>...https://youtu.be/Pjs0VmbkMSM
+                  
+</nav>
     <section>
         <article>
             <h2>Kisah Misteri Dan Traveling</h2>
