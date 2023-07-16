@@ -22,6 +22,18 @@ biografi miko lebak official
             <li><a href="#">Travel</a></li>
             <li><a href="#">Hiburan</a></li>
         </ul>
+
+<h1>Referensi</h1>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="#">Miko Lebal Official</a></li>
+            <li><a href="#">video</a></li>
+            <li><a href="#">Video Misteri</a></li>
+            <li><a href="#">vlog</a></li>
+            <li><a href="#">Vlog keseharian</a></li>
+            <li><a href="#">Terbaru</a></li>
+        </ul>
     </nav>
     <section>
         <article>
