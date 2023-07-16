@@ -61,7 +61,7 @@ biografi miko lebak official
 <a href="https://linkedin.com/in/miko lebak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="miko lebak" height="30" width="40" /></a>
 <a href="https://fb.com/youtube miko lebak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="youtube miko lebak" height="30" width="40" /></a>
 <a href="https://instagram.com/miko_lebak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="miko_lebak" height="30" width="40" /></a>
-<a href="https://www.youtube.com/mikolebakofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="miko lebak official" height="30" width="40" /></a>
+<a href="https://www.youtube.com/results?search_query=Miko+lebak+official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="miko lebak official" height="30" width="40" /></a>
 </p> 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=miko-lebak-official&show_icons=true&locale=en&layout=compact" alt="miko-lebak-official" /></p> 
